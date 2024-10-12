@@ -1,4 +1,4 @@
-<h1>Nike Website Clone</h1>
+<h1>Nike Website</h1>
 
 This is a Nike's Landing Page made using HTML and CSS by referring some youtube videos.
 
